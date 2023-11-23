@@ -32,6 +32,9 @@ appropriate use of return values and input parameters
 # a variable. We will use it as the basis for this 
 # assignment.
 
+
+
+
 while True:
     y = keyboard.read_key()
     print(y)
